@@ -8,5 +8,6 @@ that adds a TextMate-style file browser drawer
 
 ## Installation:
 
-        curl https://raw.github.com/ryuk/homebrew-macvim/master/install.sh | sh -
+        $ brew install https://raw.github.com/ryuk/homebrew-macvim/master/macvim.rb --override-system-vim
+        $ brew linkapps
 
